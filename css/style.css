@@ -1,0 +1,48 @@
+body{
+    padding: 0 0;
+    box-sizing: border-box;
+    background: url(../img/stellrweb-djb1whucfBY-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+ 
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    float: right;
+}
+.form{
+    margin-top: 270px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+.input{
+    width: 80%;
+    height: 30px;
+    color: teal;
+    opacity: 0.5;
+}
+.money{
+    margin-top: 20px;
+    width: 82%;
+    opacity: 0.5;
+    height: 33px;
+}
+.btn{
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+    opacity: 0.5;
+}
+p{
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+}
